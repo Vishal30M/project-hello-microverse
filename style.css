@@ -1,8 +1,9 @@
 * {
-    margin: auto;
-    padding: 0%;
-    box-sizing: border-box;
+  margin: auto;
+  padding: 0%;
+  box-sizing: border-box;
 }
-.hello{
-    color: blue;
+
+.hello {
+  color: blue;
 }
